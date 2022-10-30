@@ -7,7 +7,7 @@ Web developer
 * 🌍  I'm based in Vilnius, Lithuania
 * 🖥️  See my portfolio at [https://unisltu.github.io/portfolio/](http://unisltu.github.io/portfolio/)
 * ✉️  You can contact me at [tyla.ugnius@gmail.com](mailto:tyla.ugnius@gmail.com)
-* 🧠  I'm learning React.js, Node.js, CSSModules
+* 🧠  I'm learning React.js, Node.js, CSSModules, Typescript.
 
 ### Skills
 
