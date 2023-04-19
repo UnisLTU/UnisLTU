@@ -14,7 +14,7 @@
 - ✉️  You can contact me at tyla.ugnius@gmail.com  
   
 
-- 🧠  I'm learning TypeScript
+- 🧠  Currently learnig: TypeScript
   
 
 <br/>  
