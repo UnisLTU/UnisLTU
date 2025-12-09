@@ -5,10 +5,7 @@
 # 🖥️Hi 👋 My name is Ugnius Tyla  
   
 
-- 🌍  I'm based in Vilnius, Lithuania  
-  
-
-- 🖥️  See my portfolio at https://unisltu.github.io/portfolio/  
+- 🌍  I'm based in Vilnius, Lithuania
   
 
 - ✉️  You can contact me at tyla.ugnius@gmail.com  
